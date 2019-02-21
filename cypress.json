@@ -5,5 +5,10 @@
   "screenshotsFolder": "tmp/screenshots",
   "supportFile": "src/support/index.js",
   "videosFolder": "tmp/videos",
-  "projectId": "i1xxek"
+  "projectId": "i1xxek",
+  "env": {
+    "login": "admin@barong.io",
+    "password": "0lDHd9ufs9t@",
+    "login_url": "http://www.streamex.tech/api/v2/barong/identity/sessions"
+  }
 }
