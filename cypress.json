@@ -7,8 +7,9 @@
   "videosFolder": "tmp/videos",
   "projectId": "i1xxek",
   "env": {
-    "login": "TestMeHelios+CharmaineOuellet@gmail.com",
-    "password": "aeR2yahquei",
-    "login_url": "http://www.streamex.tech/api/v2/barong/identity/sessions"
+    "login": "admin@barong.io",
+    "password": "0lDHd9ufs9t@",
+    "login_url": "http://www.streamex.tech/api/v2/barong/identity/sessions",
+    "peatio": "http://www.streamex.tech/api/v2/peatio/"
   }
 }

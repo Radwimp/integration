@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BCH",
+    "address": "bchtest:qqr259n0mxh4k0pj04cqf69jepyqp88zpyndzxn3yv",
+    "address_length": 50,
+    "amount": "0.00000000"
+  },
+  {
+    "name": "DASH",
+    "address" : "yWQkvkrt7QeEsAByXgrGmvK4wpHcnvtzYz",
+    "address_length" : 34,
+    "amount" : "273.34990000"
+  },
+  {
+    "name": "ETH",
+    "address": "0x3f033c311e223642096eb58d747f8f01b8d03b37",
+    "address_length": 42,
+    "amount": "3.69820000"
+  },
+  {
+    "name": "KYN",
+    "address": "0xb717dff9b8c82989efc2a1c38265921a7b9df3e9",
+    "address_length": 42,
+    "amount": "0.00000000"
+  },
+  {
+    "name": "LTC",
+    "address" : "Qf4Qy3gzZm7ympBfStkEuHxPZwAJMEmyxs",
+    "address_length": 34,
+    "amount" : "20.19305600"
+  },
+  {
+    "name": "USD",
+    "address" : "rpZPhifCxztHNMyCeECP4fZCrefj3QeBhg?dt=3",
+    "address_length": 40,
+    "amount" : "10011.39"
+  }
+]
